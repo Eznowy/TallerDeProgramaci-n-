@@ -1,6 +1,6 @@
 
 
-// Meza Negreiros Orlando 
+// Meza Negreiros Orlando UTP
 /*
  Escribir un programa que calcule el area 
  de una figura geometrica cualquiera
